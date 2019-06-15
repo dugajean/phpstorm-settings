@@ -1,5 +1,10 @@
 <code_scheme name="Dugi" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="DO_NOT_FORMAT">
+    <list>
+      <fileSet type="namedScope" name="Javascript" pattern="file:*.js||file:*.vue" />
+    </list>
+  </option>
   <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
