@@ -3,11 +3,12 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="4" />
     <option name="HTML_TEXT_WRAP" value="0" />
-    <option name="HTML_KEEP_LINE_BREAKS" value="false" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form" />
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,form" />
     <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title,p" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
+    <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
+    <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
