@@ -14,7 +14,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="clog" value="window.console.log($ARGS$);" description="Console log" toReformat="false" toShortenFQNames="true">
+  <template name="clog" value="console.log($ARGS$)" description="Console log" toReformat="false" toShortenFQNames="true">
     <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
