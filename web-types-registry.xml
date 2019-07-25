@@ -16,31 +16,6 @@
       <version value="1.0.1-1" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.0.1-1.tgz" />
       <version value="1.0.0-1" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.0.0-1.tgz" />
     </package>
-    <package name="@web-types/quasar">
-      <version value="1.0.0-rc.5.1" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.0.0-rc.5.1.tgz" />
-      <version value="1.0.0-rc.1.1" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.0.0-rc.1.1.tgz" />
-      <version value="1.0.0-beta.0.1" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.0.0-beta.0.1.tgz" />
-    </package>
-    <package name="@web-types/quasar-framework">
-      <version value="0.17.20-1" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.20-1.tgz" />
-      <version value="0.17.19-2" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.19-2.tgz" />
-      <version value="0.17.18-2" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.18-2.tgz" />
-      <version value="0.17.17-2" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.17-2.tgz" />
-      <version value="0.17.16-2" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.16-2.tgz" />
-      <version value="0.17.15-2" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.15-2.tgz" />
-      <version value="0.17.14-1" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.14-1.tgz" />
-      <version value="0.17.13-2" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.13-2.tgz" />
-      <version value="0.17.12-1" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.12-1.tgz" />
-      <version value="0.17.11-2" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.11-2.tgz" />
-      <version value="0.17.10-2" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.10-2.tgz" />
-      <version value="0.17.9-2" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.9-2.tgz" />
-      <version value="0.17.7-2" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.7-2.tgz" />
-      <version value="0.17.6-2" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.6-2.tgz" />
-      <version value="0.17.5-2" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.5-2.tgz" />
-      <version value="0.17.3-1" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.3-1.tgz" />
-      <version value="0.17.2-1" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.2-1.tgz" />
-      <version value="0.17.0-2" url="https://registry.npmjs.org/@web-types/quasar-framework/-/quasar-framework-0.17.0-2.tgz" />
-    </package>
     <package name="@web-types/vue">
       <version value="2.5.0-1" url="https://registry.npmjs.org/@web-types/vue/-/vue-2.5.0-1.tgz" />
       <version value="2.2.0-1" url="https://registry.npmjs.org/@web-types/vue/-/vue-2.2.0-1.tgz" />
