@@ -5,6 +5,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="an" value="&lt;xsl:attribute name=&quot;$NAME$&quot;&gt;$END$&lt;/xsl:attribute&gt;" description="Attribute-Name." toReformat="false" toShortenFQNames="true">
@@ -14,6 +15,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="ats" value="&lt;xsl:apply-templates select=&quot;$SELECT$&quot;/&gt;$END$" description="Apply-Templates-Select." toReformat="false" toShortenFQNames="true">
@@ -23,6 +25,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="atsm" value="&lt;xsl:apply-templates select=&quot;$SELECT$&quot; mode=&quot;$MODE$&quot;/&gt;$END$" description="Apply-Templates-Select-Mode." toReformat="false" toShortenFQNames="true">
@@ -33,6 +36,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="cos" value="&lt;xsl:copy-of select=&quot;$END$&quot;/&gt;" description="Copy-Of-Select." toReformat="false" toShortenFQNames="true">
@@ -41,6 +45,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="ctn" value="&lt;xsl:call-template name=&quot;$NAME$&quot;/&gt;$END$" description="Call-Template-Name." toReformat="false" toShortenFQNames="true">
@@ -50,6 +55,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="ctnwp" value="&lt;xsl:call-template name=&quot;$NAME$&quot;&gt;&#10;      &lt;xsl:with-param name=&quot;$PNAME$&quot; select=&quot;$SELECT$&quot;/&gt;&#10;&lt;/xsl:call-template&gt;$END$" description="Call-Template-Name-With-Param." toReformat="false" toShortenFQNames="true">
@@ -61,6 +67,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="cwt" value="&lt;xsl:choose&gt;&#10;    &lt;xsl:when test=&quot;$TEST$&quot;&gt;&#10;        $END$&#10;    &lt;/xsl:when&gt;&#10;&lt;/xsl:choose&gt;" description="Choose-When-Test." toReformat="false" toShortenFQNames="true">
@@ -70,6 +77,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="cwto" value="&lt;xsl:choose&gt;&#10;    &lt;xsl:when test=&quot;$TEST$&quot;&gt;&#10;        $END$&#10;    &lt;/xsl:when&gt;&#10;    &lt;xsl:otherwise&gt;&#10;        &#10;    &lt;/xsl:otherwise&gt;&#10;&lt;/xsl:choose&gt;" description="Choose-When-Test-Otherwise." toReformat="false" toShortenFQNames="true">
@@ -79,6 +87,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="fe" value="&lt;xsl:for-each select=&quot;$SELECT$&quot;&gt;&#10;    $END$&#10;&lt;/xsl:for-each&gt;" description="For-Each." toReformat="false" toShortenFQNames="true">
@@ -88,6 +97,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="it" value="&lt;xsl:if test=&quot;$TEST$&quot;&gt;&#10;    $END$&#10;&lt;/xsl:if&gt;" description="If-Test." toReformat="false" toShortenFQNames="true">
@@ -97,6 +107,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="kn" value="&lt;xsl:key name=&quot;$NAME$&quot; match=&quot;$MATCH$&quot; use=&quot;$USE$&quot;/&gt;$END$" description="Key-Name." toReformat="false" toShortenFQNames="true">
@@ -108,6 +119,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="o" value="&lt;xsl:otherwise&gt;&#10;    $END$&#10;&lt;/xsl:otherwise&gt;" description="Otherwise." toReformat="false" toShortenFQNames="true">
@@ -116,6 +128,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="pn" value="&lt;xsl:param name=&quot;$END$&quot;/&gt;" description="Param-Name." toReformat="false" toShortenFQNames="true">
@@ -124,6 +137,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="tm" value="&lt;xsl:template match=&quot;$MATCH$&quot;&gt;&#10;    $END$&#10;&lt;/xsl:template&gt;" description="Template-Match." toReformat="false" toShortenFQNames="true">
@@ -133,6 +147,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="tmm" value="&lt;xsl:template match=&quot;$MATCH$&quot; mode=&quot;$MODE$&quot;&gt;&#10;    $END$&#10;&lt;/xsl:template&gt;" description="Template-Match-Mode." toReformat="false" toShortenFQNames="true">
@@ -143,6 +158,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="tn" value="&lt;xsl:template name=&quot;$NAME$&quot;&gt;&#10;    $END$&#10;&lt;/xsl:template&gt;" description="Template-Name." toReformat="false" toShortenFQNames="true">
@@ -152,6 +168,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="tt" value="&lt;xsl:text&gt;$END$&lt;/xsl:text&gt;" description="Text." toReformat="false" toShortenFQNames="true">
@@ -160,6 +177,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="vn" value="&lt;xsl:variable name=&quot;$NAME$&quot;&gt;$END$&lt;/xsl:variable&gt;" description="Variable-Name." toReformat="false" toShortenFQNames="true">
@@ -169,6 +187,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="vns" value="&lt;xsl:variable name=&quot;$NAME$&quot; select=&quot;$SELECT$&quot;/&gt;" description="Variable-Name-Select." toReformat="false" toShortenFQNames="true">
@@ -179,6 +198,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="vos" value="&lt;xsl:value-of select=&quot;$END$&quot;/&gt;" description="Value-Of-Select." toReformat="false" toShortenFQNames="true">
@@ -187,6 +207,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="wp" value="&lt;xsl:with-param name=&quot;$NAME$&quot; select=&quot;$SELECT$&quot;/&gt;$END$" description="With-Param." toReformat="false" toShortenFQNames="true">
@@ -197,6 +218,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="wpn" value="&lt;xsl:with-param name=&quot;$NAME$&quot; select=&quot;$SELECT$&quot;/&gt;$END$" description="With-Param-Name." toReformat="false" toShortenFQNames="true">
@@ -207,6 +229,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="wt" value="&lt;xsl:when test=&quot;$TEST$&quot;&gt;$END$&lt;/xsl:when&gt;" description="When-Test." toReformat="false" toShortenFQNames="true">
@@ -216,6 +239,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
 </templateSet>
