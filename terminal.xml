@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe&quot;  -ExecutionPolicy Bypass -NoLogo -NoProfile -NoExit -Command . 'C:\\PROGRA~2\\Cmder\\vendor\\profile.ps1'" />
+    <option name="myShellPath" value="" />
     <option name="mySoundBell" value="false" />
     <option name="myTabName" value="Powershell" />
   </component>
