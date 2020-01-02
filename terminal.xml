@@ -1,7 +1,9 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="" />
+    <option name="myCopyOnSelection" value="false" />
+    <option name="myPasteOnMiddleMouseButton" value="false" />
+    <option name="myReportMouse" value="false" />
     <option name="mySoundBell" value="false" />
-    <option name="myTabName" value="Powershell" />
+    <option name="myTabName" value="zsh" />
   </component>
 </application>
