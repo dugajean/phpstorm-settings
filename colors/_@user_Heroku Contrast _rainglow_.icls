@@ -4,7 +4,7 @@
     <property name="created">2020-09-30T12:14:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-09-30T13:38:14</property>
+    <property name="modified">2020-09-30T14:08:30</property>
     <property name="originalScheme">Heroku Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -70,7 +70,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="616161" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="5a4036" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="ab7967" />
-    <option name="WHITESPACES" value="14141b" />
+    <option name="WHITESPACES" value="35313e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="14141b" />
   </colors>
   <attributes>
@@ -715,7 +715,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="585480" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -777,7 +776,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="a6fa62" />
+        <option name="FOREGROUND" value="619f6b" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -1250,7 +1249,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="a6fa62" />
+        <option name="EFFECT_COLOR" value="619f6b" />
         <option name="ERROR_STRIPE_COLOR" value="aeae80" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -1312,6 +1311,11 @@
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -3465,8 +3469,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="a6fa62" />
-        <option name="ERROR_STRIPE_COLOR" value="a6fa62" />
+        <option name="EFFECT_COLOR" value="619f6b" />
+        <option name="ERROR_STRIPE_COLOR" value="232830" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
