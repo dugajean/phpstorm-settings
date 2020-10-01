@@ -4,7 +4,7 @@
     <property name="created">2020-09-30T12:14:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-09-30T14:08:30</property>
+    <property name="modified">2020-10-01T12:42:51</property>
     <property name="originalScheme">Heroku Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -1316,6 +1316,11 @@
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
