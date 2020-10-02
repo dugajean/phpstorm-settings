@@ -1,7 +1,7 @@
 <keymap version="1" name="Dugi macOS" parent="Sublime Text (Mac OS X)">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="meta #10000a7" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorUnindentSelection">
@@ -15,6 +15,7 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="NextWindow" />
   <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
   <action id="PreviousTemplateVariable" />
