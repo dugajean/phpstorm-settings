@@ -19,5 +19,6 @@
   <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
   <action id="PreviousTemplateVariable" />
+  <action id="Rerun" />
   <action id="SearchEverywhere.PrevTab" />
 </keymap>
