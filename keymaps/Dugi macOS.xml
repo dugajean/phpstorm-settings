@@ -4,6 +4,12 @@
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
+    <keyboard-shortcut first-keystroke="shift meta space" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="shift tab" />
@@ -15,10 +21,15 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="NextWindow" />
   <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
   <action id="PreviousTemplateVariable" />
   <action id="Rerun" />
   <action id="SearchEverywhere.PrevTab" />
+  <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
