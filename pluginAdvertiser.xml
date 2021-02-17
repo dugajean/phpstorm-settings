@@ -748,6 +748,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pcss">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.postcss" />
+              <option name="myPluginName" value="PostCSS" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pcx">
           <value>
             <plugin>
