@@ -15,6 +15,7 @@
     <option name="disabledHintProviderIds">
       <set>
         <option value="JavaScript.js.type.hints" />
+        <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
   </component>
