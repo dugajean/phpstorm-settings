@@ -4,6 +4,7 @@
       <mapping pattern="post" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="rsvg" type="SVG" />
     </extensionMap>
   </component>
 </application>
